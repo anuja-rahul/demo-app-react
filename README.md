@@ -1,8 +1,15 @@
-# React + Vite
+# demo-app-react
+#### Demo website developed using react library.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
+&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github)
 
-Currently, two official plugins are available:
+![GitHub](https://img.shields.io/github/forks/anuja-rahul/demo-app-react?style=for-the-badge&logo=github)
+&nbsp;&nbsp;
+![GitHub](https://img.shields.io/github/license/anuja-rahul/demo-app-react?style=for-the-badge&logo=github)
+&nbsp;&nbsp;
+![GitHub](https://img.shields.io/github/stars/anuja-rahul/demo-app-react?style=for-the-badge&logo=github)
+&nbsp;&nbsp;
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuja-rahul&repo=demo-app-react\&theme=nightowl)
