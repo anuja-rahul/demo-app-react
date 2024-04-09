@@ -1,3 +1,11 @@
+![React](https://img.shields.io/badge/-react-000?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/-vite-000?style=for-the-badge&logo=vite)  
+
+![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3&logoColor=264de4)
+![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript)
+
+
 # demo-app-react
 #### Demo website developed using react library.
 
